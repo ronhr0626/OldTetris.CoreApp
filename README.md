@@ -3,7 +3,7 @@
 Tetris built in C# with Windows Forms (.NET 10).
 Kodehode – C# Fordypning, Case 1.
 
-![Architecture](docs/OldTetris-architecture.png)
+![Architecture](OldTetris-architecture.png)
 
 ## Features
 
