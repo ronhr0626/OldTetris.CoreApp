@@ -1,4 +1,8 @@
 <Solution>
+  <Folder Name="/Docts/">
+    <File Path="OldTetris/OldTetris-architecture.png" />
+    <File Path="README.md" />
+  </Folder>
   <Project Path="OldTetris.Core/OldTetris.Core.csproj" />
   <Project Path="OldTetris/OldTetris.csproj" />
 </Solution>
