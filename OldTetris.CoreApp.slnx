@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="OldTetris.Core/OldTetris.Core.csproj" />
+  <Project Path="OldTetris/OldTetris.csproj" />
+</Solution>
